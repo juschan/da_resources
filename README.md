@@ -17,7 +17,6 @@
 * [Video - How to build Interactive Excel Dashboards that Update with ONE CLICK!](https://www.youtube.com/watch?v=K74_FNnlIF8)
 
 
-
 ### SQL
 
 * [SQLBolt](https://sqlbolt.com/) - Simple, interactive exercises
@@ -29,3 +28,4 @@
 ### Tableau
 
 * [Tableau Prep](https://www.tableau.com/products/prep)
+* [Coursera - Data Visualization with Tableau Specialization](https://www.coursera.org/specializations/data-visualization)
