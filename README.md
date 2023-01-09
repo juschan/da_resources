@@ -25,6 +25,10 @@
 * [SQL Views](https://www.w3schools.com/sql/sql_view.asp) - Always updated.
 * [SQL Server - Materialized Views](https://docs.microsoft.com/en-us/sql/t-sql/statements/create-materialized-view-as-select-transact-sql?view=azure-sqldw-latest) - Microsoft SQL Server specific Materialized Views
 
+### ERD
+* [Entity-Relationship Diagram Symbols and Notation](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning)
+
+
 ### Tableau
 
 * [Tableau Prep](https://www.tableau.com/products/prep)
