@@ -18,7 +18,6 @@
 
 
 ### SQL
-
 * [SQLBolt](https://sqlbolt.com/) - Simple, interactive exercises
 * [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) - Interactive exercises that contains intermediate queries for Windowing, and COVID example
 * [W3 Schools](https://www.w3schools.com/sql/default.asp) - Good reference and code examples.
@@ -27,6 +26,10 @@
 
 ### ERD
 * [Entity-Relationship Diagram Symbols and Notation](https://www.lucidchart.com/pages/ER-diagram-symbols-and-meaning)
+
+### Tools for SQL
+* [DB Browser for Sqlite](https://sqlitebrowser.org/)
+* [Video for installing DB Browser for Sqlite](https://www.youtube.com/watch?v=CDen1TavGQ8)
 
 
 ### Tableau
